@@ -152,17 +152,17 @@ More certifications coming soon 🚀
 # 🌍 Connect With Me
 
 <p align="left">
-<a href="https://github.com/rawan-6320">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <a href="https://github.com/rawan-6320" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href=" https://www.linkedin.com/in/rawan-osama-7719a0345/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/rawan-osama-7719a0345/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="mailto:rawanosama1203@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="mailto:rawanosama1203@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
