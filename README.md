@@ -229,10 +229,10 @@ Build AI solutions that make a real impact.
 
 ---
 
-# 💜 Favorite Quote
+## 💜 Favorite Quote
 
-> **"Artificial Intelligence isn't about replacing humans. It's about empowering them."**
-
+> *"You should learn something about everything and everything about something."*
+> — Thomas H. Huxley
 ---
 
 # 📌 Profile Summary
