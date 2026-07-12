@@ -232,6 +232,7 @@ Build AI solutions that make a real impact.
 ## 💜 Favorite Quote
 
 > *"You should learn something about everything and everything about something."*
+> 
 > — Thomas H. Huxley
 ---
 
